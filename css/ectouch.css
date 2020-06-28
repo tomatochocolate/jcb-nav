@@ -749,7 +749,7 @@ a.a-sequence .iconfont.icon-icon-square:before{font-size:3.2rem;}
 .menu-right ul li:nth-child(3n+1) a{left:0; right:.7rem;}
 .menu-right ul li:nth-child(3n) a{right:0; left: .7rem;}
 .menu-right ul li span{display:block;height:2.6rem; line-height: 2.6rem; overflow: hidden; text-align: center; font-size:1.4rem}
-.menu-right ul li img{width:5rem; height: auto;	}
+.menu-right ul li img{width:5rem; height: 5rem;	}
 .mune-no-img img{display:none}
 .mune-no-img span{border:1px solid #efefef; color:#555; border-radius: 4px;}
 
@@ -1134,3 +1134,6 @@ footer.logo img {
 .n-cate-box-1{margin:0 auto;padding: 4rem 0;}
 .n-cate-box-1 p{font-size:1.55rem; color:#888;text-align:center;}
 .n-cate-box-1 span{background:#fff; padding:0.8rem;border:1px solid #efefef;text-align: center;display:block;margin:0 auto;font-size:1.5rem;color:#555;border-radius:0.5rem;    width: 45%;margin-top: 0.8rem;}
+
+.classMore{height: 18.2rem;}
+.classShow{height: auto;}
